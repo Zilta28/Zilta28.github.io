@@ -2,13 +2,19 @@
     font-family: "Abel", sans-serif;
 }
 header{
-    background-color: #34344e;
+    background-color: #131a35;
 }
 .nav-item a{
     color: #cbdad5;
 }
 .nav-link{
     color: blanchedalmond;
+}
+.fs-4{
+    color: white;
+}
+.bi{
+    color: white;
 }
 .perfil{
     background-color: #566981;
@@ -27,8 +33,28 @@ header{
     color: white;
 }
 .caja-habilidades{
-    background-color: #8fa6ae;
+    background-color: #00294c;
     
+}
+.pb-2{
+    color: white;
+    text-decoration: double;
+}
+.pb-22{
+    color: black;
+}
+.fs-2{
+    color: white;
+}
+
+.hab{
+    color: white;
+}
+.bit{
+    color: white;
+}
+.bi{
+    color: black;
 }
 .btn-proyecto{
     background-color: #11262c;
@@ -38,16 +64,17 @@ header{
     color:aqua;
 }
 .card .card-title{
-    color: #83072D;
+    color: #131a35 ;
 }
 #contactame p{
     color: white
 }
 footer li a i{
-    color:#4a5603;
+    color:#70868d;
 }
 footer p{
-    color: #721422;
+     
+    color:#131a35;
 }
 footer p a{
     text-decoration: none;
